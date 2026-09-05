@@ -23,7 +23,7 @@ Conhecer e comparar as duas distribuições Linux, explorando:
 
 ## 🧪 Demonstração
 
-Durante o seminário será apresentada uma demonstração prática dos sistemas, incluindo comandos de terminal, instalação de programas e execução dos códigos.
+Durante o seminário será apresentada uma demonstração dos sistemas, incluindo comandos de terminal, instalação de programas e execução dos códigos.
 
 
 ## 👥 Equipe
