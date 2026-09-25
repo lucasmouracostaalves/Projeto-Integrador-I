@@ -1,11 +1,11 @@
-# 🐧 Projeto Linux — Ubuntu e Linux Mint
+# 🐧 Projeto Linux — Ubuntu e Pop!_OS
 
 Projeto acadêmico sobre **instalação, utilização e comparação de distribuições Linux**.
 
 ## 💻 Sistemas utilizados
 
 * **Ubuntu**
-* **Linux Mint**
+* **Pop!_OS**
 
 Os sistemas serão executados em **máquinas virtuais utilizando Oracle VirtualBox**.
 
@@ -19,11 +19,7 @@ Conhecer e comparar as duas distribuições Linux, explorando:
 * Instalação de programas e pacotes;
 * Ambiente de programação;
 * Execução de códigos em **C e Python**;
-* Características e diferenças entre Ubuntu e Linux Mint.
-
-## 🧪 Demonstração
-
-Durante o seminário será apresentada uma demonstração dos sistemas, incluindo comandos de terminal, instalação de programas e execução dos códigos.
+* Características e diferenças entre Ubuntu e Pop!_OS.
 
 
 ## 👥 Equipe
